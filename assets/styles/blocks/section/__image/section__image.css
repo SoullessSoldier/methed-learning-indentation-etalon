@@ -1,0 +1,9 @@
+.section__image {
+  margin: 0 0 30px;
+  text-align: center;
+  font-size: 0;
+}
+
+.section__image:last-child {
+  margin: 0;
+}

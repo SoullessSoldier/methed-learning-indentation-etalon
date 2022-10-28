@@ -1,0 +1,7 @@
+.article__container {
+  padding: 0 60px;
+}
+
+.article__container:not(:last-child) {
+  padding-bottom: 25px;
+}

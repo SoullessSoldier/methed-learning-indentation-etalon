@@ -1,0 +1,37 @@
+@import './fonts.css';
+@import './default.css';
+
+@import './blocks/text/text.css';
+@import './blocks/text/_style/text_style_normal.css';
+@import './blocks/text/_style/text_style_bold.css';
+@import './blocks/text/_style/text_style_black.css';
+@import './blocks/text/_style/text_style_italic.css';
+
+@import './blocks/container/container.css';
+
+@import './blocks/article/article.css';
+@import './blocks/article/__header/article__header.css';
+@import './blocks/article/__container/article__container.css';
+@import './blocks/article/__additional-block/article__additional-block.css';
+@import './blocks/article/__title/article__title.css';
+@import './blocks/article/__paragraph/article__paragraph.css';
+
+@import './blocks/section/section.css';
+@import './blocks/section/__image/section__image.css';
+@import './blocks/section/__title/section__title.css';
+@import './blocks/section/__figure/section__figure.css';
+@import './blocks/section/__figcaption/section__figcaption.css';
+
+@import './blocks/additional-block/additional-block.css';
+@import './blocks/additional-block/__container/additional-block__container.css';
+@import './blocks/additional-block/__title/additional-block__title.css';
+@import './blocks/additional-block/__list/additional-block__list.css';
+@import './blocks/additional-block/__list/_marker/additional-block__list_marker_em-dash.css';
+@import './blocks/additional-block/__list/_color/additional-block__list_color_teal.css';
+@import './blocks/additional-block/__item/additional-block__item.css';
+@import './blocks/additional-block/__link/additional-block__link.css';
+
+@import './blocks/two-columns/two-columns.css';
+@import './blocks/two-columns/__text/two-columns__text.css';
+@import './blocks/two-columns/__right/two-columns__right.css';
+@import './blocks/two-columns/__left/two-columns__left.css';

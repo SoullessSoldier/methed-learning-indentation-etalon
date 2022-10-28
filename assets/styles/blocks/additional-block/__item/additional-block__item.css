@@ -1,0 +1,9 @@
+.additional-block__item {
+  padding-left: 4px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.additional-block__item:last-child {
+  margin: 0;
+}
