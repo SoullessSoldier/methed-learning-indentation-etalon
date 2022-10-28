@@ -3,7 +3,7 @@
 
 @import "./blocks/text/text.css";
 @import "./blocks/text/_style/text_style_normal.css";
-@import "./blocks/text/_style/text_style_bold.css";
+@import "blocks/text/_style/text_style_bold.css";
 @import "./blocks/text/_style/text_style_black.css";
 @import "./blocks/text/_style/text_style_italic.css";
 
